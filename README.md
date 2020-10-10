@@ -31,6 +31,9 @@
  - Public leaderboard: 0.2393 (ranked 312/1636, top 19%)
  - Private leaderboard: 0.3556 (ranked 300/1636, top 19%)
  
+ ## Software package
+ - PyTorch on Google Colab
+ 
  ## Ideas tried but not worked
  - Add Conv1d layer with batch/layer normalization
  - Use k-mer to encode RNA
