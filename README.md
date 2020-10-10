@@ -6,14 +6,14 @@
  
  ## Data
  - Attributes: RNA sequence and structure at each position
-  - RNA sequence
-  - RNA structure
-  - RNA predicted loop type
-  - RNA pairing probability matrix (BPPS)
+     - RNA sequence
+     - RNA structure
+     - RNA predicted loop type
+     - RNA pairing probability matrix (BPPS)
  - Target: Degradabilities under five conditions at each position
  
  ## Metrics
- - Columnwise averaged RMSE
+ - Mean-columnwise RMSE (MCRMSE)
  
  ## Models
  - RNN-based sequence model
